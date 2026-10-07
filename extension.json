@@ -1,0 +1,13 @@
+{
+  "name": "AT86RF233-SPI",
+  "apiVersion": "1.0.0",
+  "author": "maser228",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "AT86RF233-SPI": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.HLA_AT86RF233_SPI"
+    }
+  }
+}
